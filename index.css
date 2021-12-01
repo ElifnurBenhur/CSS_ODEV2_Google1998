@@ -1,0 +1,63 @@
+section{
+   width: 1000px;
+   height: 100px;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+h5{
+    margin:0;
+}
+.center{
+    margin-left: 27%;
+    display: block;
+}
+.img{
+    margin-left: 35%;
+    width: 351;
+    height: 113;
+}
+.bg-grey{
+    background-color:#EEEEEE;
+}
+.bg-light-green{
+    background-color:#7EE5DA ;
+}
+.bg-medium-green{
+    background-color: #70CCC2;
+}
+.bg-dark-green{
+    background-color:#62B3AA ;
+}
+.center{
+   margin-left: 400px;
+}
+.float{
+    float: left;
+   
+}
+
+.d-size{
+    width: 70%;
+    padding: 15%;
+
+}
+.btn{
+    
+    margin: 1px;
+    padding: 1px;
+}
+.box{
+    width: 327px;
+    height: 100px;
+    padding: 2px;
+    margin: 1px;
+    text-align: center;
+}
+.search{
+    width: 400px;
+    margin-left: 30%;
+}
+.blok{
+    margin-left: 63px;
+    display: block;
+}
